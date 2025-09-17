@@ -1,11 +1,19 @@
 {
-  "name": "lap3",
+  "name": "coolnodeapp",
   "version": "1.0.0",
+  "description": "node app ",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+  "start": "node app.js"
+  },
+  "repository": {
+  "type": "git",
+  "url": ""
   },
   "author": "",
   "license": "ISC",
-  "description": ""
-}
+  "bugs": {
+  "url": ""
+  },
+  "homepage": ""
+  }
